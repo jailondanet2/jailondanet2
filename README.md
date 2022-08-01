@@ -32,4 +32,4 @@
   <a href="https://api.whatsapp.com/send/?phone=5598992260774&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://t.me/JailondaNET" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-    ![Snake animation](https://github.com/jailondanet2/jailondanet2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jailondanet2/jailondanet2/blob/output/github-contribution-grid-snake.svg)
